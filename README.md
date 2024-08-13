@@ -16,7 +16,8 @@ password : 123456
 ## Screenshots
 
 <div style= "display:flex; flex-direction:columnn" >
-  <img style= "display:flex; margin-bottom:10" src="./screenshots/Screenshot 2024-08-13 at 1.18.09 PM.png" alt="Screenshot" width="600"/>
+  <img src="./screenshots/Screenshot 2024-08-13 at 1.18.09 PM.png" alt="Screenshot" width="600"/>
+  <br/>
   <img src="./screenshots/Screenshot 2024-08-13 at 1.19.01 PM.png" alt="Screenshot" width="600"/>
 </div>
 
